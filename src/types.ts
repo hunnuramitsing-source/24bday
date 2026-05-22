@@ -108,22 +108,22 @@ Once again huttu habbada hardika shubhashegallu gubbi 😘😘😘🐼🫂`,
   memories: [
     {
       id: 'm1',
-      imageUrl: 'https://birthimg.netlify.app/img1',
+      imageUrl: 'https://birthimg.netlify.app/img1.jpeg',
       caption: 'Yours smile is mines favorite view 😘 🌍 💖'
     },
     {
       id: 'm2',
-      imageUrl: 'https://birthimg.netlify.app/img2',
+      imageUrl: 'https://birthimg.netlify.app/img2.jpeg',
       caption: 'The way you blush when I look at you closely... cuteness overload! 🥰'
     },
     {
       id: 'm3',
-      imageUrl: 'https://birthimg.netlify.app/img3',
+      imageUrl: 'https://birthimg.netlify.app/img3.jpeg',
       caption: 'Talag illas vajja agtni nod ning🤭🤭😂😂'
     },
     {
       id: 'm4',
-      imageUrl: 'https://birthimg.netlify.app/img4',
+      imageUrl: 'https://birthimg.netlify.app/img4.jpeg',
       caption: 'One of those pictures I’ll never get tired of ✨💚'
     }
   ]
