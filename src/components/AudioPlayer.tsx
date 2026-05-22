@@ -20,7 +20,7 @@ export const SOUNDS: SoundTrackDef[] = [
     id: "monk-turner-birthday",
     name: "🎉 It's Your Birthday - Monk Turner",
     type: "mp3",
-    url: "https://raw.githubusercontent.com/hunnuramitsing-source/24bday/0f6fe0b9ba30d3edd103aaf6b59769c644430f7a/Nagutha%20Nagutha%20Baalu-(SambalpuriStar.In).mp3?utm_source=chatgpt.com",
+    url: "https://raw.githubusercontent.com/hunnuramitsing-source/24bday/0e46d11db05386cc6bd0935701cb0111d333b9a3/Bairan%20-%20djworld.mp3",
     desc: "Bright indie folk acoustic celebration"
   }
 ];
